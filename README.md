@@ -2,7 +2,7 @@
 
 ## Background
 
-PSD (www.psdconsulting.com) has developed, tested and documented a set of OpenStudio measures which demonstrate the use of EnergyPlus Energy Management System (EMS) objects via OpenStudio API calls. The measures were developed and tested using OpenStudio v2.6.0. 
+As part of NYSERDA funded project 87383, under subcontract from NREL, PSD (www.psdconsulting.com) has developed, tested and documented a set of OpenStudio measures which demonstrate the use of EnergyPlus Energy Management System (EMS) objects via OpenStudio API calls. The measures were developed and tested using OpenStudio v2.6.0. 
 The work product includes 11 separate and complete OpenStudio measures, defined on pages 63 – 113 of EnergyPlus v8.9.0 Documentation: “Application Guide for EMS”.
 *	m_1_example_1_whole_building_average_zone_air_temperature
 *	m_2_example_2_traditional_setpoint_and_availability_managers
