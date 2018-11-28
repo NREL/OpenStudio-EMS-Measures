@@ -1,0 +1,198 @@
+<measure>
+  <schema_version>3.0</schema_version>
+  <name>m_1_example_1_whole_building_average_zone_air_temperature</name>
+  <uid>77c7bcc8-14ec-4013-97e6-69f9adb24ac6</uid>
+  <version_id>bc692ba0-95ac-407b-b09a-fcd035960697</version_id>
+  <version_modified>20180712T154523Z</version_modified>
+  <xml_checksum>EDBFC5C4</xml_checksum>
+  <class_name>M1Example1WholeBuildingAverageZoneAirTemperature</class_name>
+  <display_name>M1 Example 1. Whole-Building Average Zone Air Temperature</display_name>
+  <description>This EMS measure does not control anything – but rather uses EMS sensors and EMS internal variables to generate a single value representing whole-building average temperature, weighted by zonal volume. Only conditioned zones are included in determining the average temperature value. The calculation will be evaluated at each zone timestep. The measure demonstrates the creation and use of the following OpenStudio EMS objects. 1) EnergyManagementSystem:ProgramCallingManager 2) EnergyManagementSystem:Sensor 3) EnergyManagementSystem:InternalVariable 4) EnergyManagementSystem:OutputVariable, 5) EnergyManagementSystem:Program, 6)Output:EnergyManagementSystem</description>
+  <modeler_description>This EMS measure will uses EnergyManagementSystem:Sensor objects (Zone Temperatures) and EnergyManagementSystem:InternalVariable objects (Zone Volume) to calculate a whole building volume-weighted average temperature at each zone timestep. The result is stored in an EnergyManagementSystem:OutputVariable object.</modeler_description>
+  <arguments>
+    <argument>
+      <name>verbose_info_statements</name>
+      <display_name>Check to allow measure to generate verbose runner.registerInfo statements.</display_name>
+      <type>Boolean</type>
+      <required>false</required>
+      <model_dependent>false</model_dependent>
+      <default_value>false</default_value>
+      <choices>
+        <choice>
+          <value>true</value>
+          <display_name>true</display_name>
+        </choice>
+        <choice>
+          <value>false</value>
+          <display_name>false</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>internal_VariableAvailabilityDictionaryReporting</name>
+      <display_name>Level of output reporting related to the EMS internal variables that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueNames</value>
+          <display_name>NotByUniqueNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>ems_RuntimeLanguageDebugOutputLevel</name>
+      <display_name>Level of output reporting related to the execution of EnergyPlus Runtime Language, written to .edd file.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>ErrorsOnly</value>
+          <display_name>ErrorsOnly</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>actuator_AvailabilityDictionaryReporting</name>
+      <display_name>Level of output reporting related to the EMS actuators that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueNames</value>
+          <display_name>NotByUniqueNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+  </arguments>
+  <outputs/>
+  <provenances/>
+  <tags>
+    <tag>HVAC.HVAC Controls</tag>
+  </tags>
+  <attributes>
+    <attribute>
+      <name>Measure Type</name>
+      <value>ModelMeasure</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+  </attributes>
+  <files>
+    <file>
+      <filename>unit_conversions.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>31924A51</checksum>
+    </file>
+    <file>
+      <filename>util.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>B25EFCDD</checksum>
+    </file>
+    <file>
+      <filename>weather.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>82988A63</checksum>
+    </file>
+    <file>
+      <filename>m1_seed.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>BCD0DDF9</checksum>
+    </file>
+    <file>
+      <filename>m1_w_EMS.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>76D28916</checksum>
+    </file>
+    <file>
+      <version>
+        <software_program>OpenStudio</software_program>
+        <identifier>2.4.0</identifier>
+        <min_compatible>2.4.0</min_compatible>
+      </version>
+      <filename>measure.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>script</usage_type>
+      <checksum>C128804F</checksum>
+    </file>
+  </files>
+</measure>

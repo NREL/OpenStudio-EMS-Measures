@@ -1,0 +1,263 @@
+<measure>
+  <schema_version>3.0</schema_version>
+  <name>m_5_example_5_computed_schedule</name>
+  <uid>b1ada462-a9a1-4b29-8fad-592feebcee14</uid>
+  <version_id>a8c3a7ec-5d99-4df9-8813-5a4e97f45dc6</version_id>
+  <version_modified>20180712T154524Z</version_modified>
+  <xml_checksum>9E82E94F</xml_checksum>
+  <class_name>M5Example5ComputedSchedule</class_name>
+  <display_name>M5 Example 5. Computed Schedule</display_name>
+  <description>This measure replicates the EMS functionality described in Example 5 from the EnergyPlus V8.9 EMS Application Guide.</description>
+  <modeler_description>The example demonstrates the use of a thermostat schedule object as and EMS actuator object. The EMS program alters the scheduled values as a function of hour of day and day of week.</modeler_description>
+  <arguments>
+    <argument>
+      <name>verbose_info_statements</name>
+      <display_name>Check to allow measure to generate verbose runner.registerInfo statements.</display_name>
+      <type>Boolean</type>
+      <required>false</required>
+      <model_dependent>false</model_dependent>
+      <default_value>false</default_value>
+      <choices>
+        <choice>
+          <value>true</value>
+          <display_name>true</display_name>
+        </choice>
+        <choice>
+          <value>false</value>
+          <display_name>false</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>zones</name>
+      <display_name>Choose Conditioned Thermal Zone(s) to apply EMS Program T-stat changes to.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>*All Conditioned Thermal Zones*</default_value>
+      <choices>
+        <choice>
+          <value>{1665d5a7-8ed3-47aa-9d34-6e4958999552}</value>
+          <display_name>*All Conditioned Thermal Zones*</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>internal_variable_availability_dictionary_reporting</name>
+      <display_name>Level of output reporting related to the EMS internal variables that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>ems_runtime_language_debug_output_level</name>
+      <display_name>Level of output reporting related to the execution of EnergyPlus Runtime Language, written to .edd file.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>ErrorsOnly</value>
+          <display_name>ErrorsOnly</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>actuator_availability_dictionary_reporting</name>
+      <display_name>Level of output reporting related to the EMS actuators that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+  </arguments>
+  <outputs/>
+  <provenances/>
+  <tags>
+    <tag>HVAC.HVAC Controls</tag>
+  </tags>
+  <attributes>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Measure Type</name>
+      <value>ModelMeasure</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+  </attributes>
+  <files>
+    <file>
+      <filename>unit_conversions.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>31924A51</checksum>
+    </file>
+    <file>
+      <filename>util.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>B25EFCDD</checksum>
+    </file>
+    <file>
+      <filename>weather.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>82988A63</checksum>
+    </file>
+    <file>
+      <filename>m5_wo_EMS.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>AEF04A94</checksum>
+    </file>
+    <file>
+      <filename>m5_w_EMS.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>F7762061</checksum>
+    </file>
+    <file>
+      <version>
+        <software_program>OpenStudio</software_program>
+        <identifier>2.4.0</identifier>
+        <min_compatible>2.4.0</min_compatible>
+      </version>
+      <filename>measure.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>script</usage_type>
+      <checksum>2409E6E0</checksum>
+    </file>
+    <file>
+      <filename>m5_seed.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>AEF04A94</checksum>
+    </file>
+  </files>
+</measure>

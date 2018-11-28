@@ -1,0 +1,415 @@
+<measure>
+  <schema_version>3.0</schema_version>
+  <name>m_4_example_4_halt_program_based_on_constraint</name>
+  <uid>0bda22f1-6e1a-46af-b39c-5b8ce14f14da</uid>
+  <version_id>112d0edc-1915-4732-bdd2-45d7d2ae2dac</version_id>
+  <version_modified>20180712T155217Z</version_modified>
+  <xml_checksum>7F232980</xml_checksum>
+  <class_name>M4Example4HaltProgramBasedOnConstraint</class_name>
+  <display_name>m_4_example_4_halt_program_based_on_constraint</display_name>
+  <description>This measure will replicate the functionality described in the EnergyPlus Energy Management System Application Guide, Example 4., based on user input.</description>
+  <modeler_description>This measure will demonstrate how results from custom and intermediate calculations evaluated during an OpenStudio simulation workflow can be used to trigger a ‘graceful failure’ based on a predetermined limits or constraint. Exercising this feature can be useful when users are attempting to efficiently manage resources needed for a simulation study involving a large parameter space. When used properly, this feature effectively provides dynamic ‘pruning’ of the overall solution space based on user-defined triggers for halting a simulation. In addition to selecting a thermal zone, users will be asked to define both lower (a.bc) and upper (x.yz) PMV limits for triggering the ‘graceful failure’. An EMS Trend Variable will be configured for the Thermal Zone output variable named “Zone Thermal Comfort Fanger Model PMV”.  If the trended average of the output variable is greater that a user-defined value (a.bc), the measure will fail and generate an error code of “900a.bc”. If a trended average the output variable greater than the user-defined value (x.yz), the measure will gracefully fail with the error code 100x.yz.</modeler_description>
+  <arguments>
+    <argument>
+      <name>verbose_info_statements</name>
+      <display_name>Check to allow measure to generate verbose runner.registerInfo statements.</display_name>
+      <type>Boolean</type>
+      <required>false</required>
+      <model_dependent>false</model_dependent>
+      <default_value>false</default_value>
+      <choices>
+        <choice>
+          <value>true</value>
+          <display_name>true</display_name>
+        </choice>
+        <choice>
+          <value>false</value>
+          <display_name>false</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>zones</name>
+      <display_name>Choose Conditioned Thermal Zone(s) to apply EMS Fanger comfort model PMV graceful failure limits to. NOTE: The thermal zone must have People objects attached to it..</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <choices>
+        <choice>
+          <value>{a90e80fa-8f42-40bf-86cc-fd80a5ae262c}</value>
+          <display_name>*All Thermal Zones*</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>comfortWarnings</name>
+      <display_name>Enable ASHRAE 55 Comfort Warnings?</display_name>
+      <type>Boolean</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>false</default_value>
+      <choices>
+        <choice>
+          <value>true</value>
+          <display_name>true</display_name>
+        </choice>
+        <choice>
+          <value>false</value>
+          <display_name>false</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>meanRadiantCalcType</name>
+      <display_name>Mean Radiant Temperature Calculation Type.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>ZoneAveraged</default_value>
+      <choices>
+        <choice>
+          <value>ZoneAveraged</value>
+          <display_name>ZoneAveraged</display_name>
+        </choice>
+        <choice>
+          <value>SurfaceWeighted</value>
+          <display_name>SurfaceWeighted</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>work_efficiency_schedule</name>
+      <display_name>Choose a Work Efficiency Schedule.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+    </argument>
+    <argument>
+      <name>clothing_schedule</name>
+      <display_name>Choose a Clothing Insulation Schedule.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+    </argument>
+    <argument>
+      <name>air_velocity_schedule</name>
+      <display_name>Choose an Air Velocity Schedule.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+    </argument>
+    <argument>
+      <name>model_time_step</name>
+      <display_name>Timestep to be used for model, in minutes.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>15</default_value>
+      <choices>
+        <choice>
+          <value>60</value>
+          <display_name>60</display_name>
+        </choice>
+        <choice>
+          <value>30</value>
+          <display_name>30</display_name>
+        </choice>
+        <choice>
+          <value>15</value>
+          <display_name>15</display_name>
+        </choice>
+        <choice>
+          <value>10</value>
+          <display_name>10</display_name>
+        </choice>
+        <choice>
+          <value>6</value>
+          <display_name>6</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>pmv_trend_length</name>
+      <display_name>Length of time to extend the Zone PMV calc, in hours.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>2</default_value>
+      <choices>
+        <choice>
+          <value>2</value>
+          <display_name>2</display_name>
+        </choice>
+        <choice>
+          <value>3</value>
+          <display_name>3</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>min_pmv_thresh</name>
+      <display_name>The minimum Fanger Model PMV that if below, will trigger a simulation halt.</display_name>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>1.3</default_value>
+    </argument>
+    <argument>
+      <name>max_pmv_thresh</name>
+      <display_name>The maximum Fanger Model PMV that if above, will trigger a simulation halt.</display_name>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>2.5</default_value>
+    </argument>
+    <argument>
+      <name>internal_VariableAvailabilityDictionaryReporting</name>
+      <display_name>Level of output reporting related to the EMS internal variables that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>ems_RuntimeLanguageDebugOutputLevel</name>
+      <display_name>Level of output reporting related to the execution of EnergyPlus Runtime Language, written to .edd file.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>ErrorsOnly</value>
+          <display_name>ErrorsOnly</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>actuator_AvailabilityDictionaryReporting</name>
+      <display_name>Level of output reporting related to the EMS actuators that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+  </arguments>
+  <outputs/>
+  <provenances/>
+  <tags>
+    <tag>HVAC.HVAC Controls</tag>
+  </tags>
+  <attributes>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Measure Type</name>
+      <value>ModelMeasure</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+  </attributes>
+  <files>
+    <file>
+      <filename>m4_wo_EMS.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>C97864AB</checksum>
+    </file>
+    <file>
+      <filename>m4_w_EMS.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>008E2102</checksum>
+    </file>
+    <file>
+      <filename>m4_seed.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>C97864AB</checksum>
+    </file>
+    <file>
+      <version>
+        <software_program>OpenStudio</software_program>
+        <identifier>2.4.0</identifier>
+        <min_compatible>2.4.0</min_compatible>
+      </version>
+      <filename>measure.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>script</usage_type>
+      <checksum>0DAE63BC</checksum>
+    </file>
+  </files>
+</measure>

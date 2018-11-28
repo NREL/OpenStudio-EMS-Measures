@@ -1,0 +1,362 @@
+<measure>
+  <schema_version>3.0</schema_version>
+  <name>m_7_example_7_constant_volume_purchased_air_system</name>
+  <uid>cb9a676b-9a7a-4da7-9940-0ba045cd17b8</uid>
+  <version_id>d3ae2099-754c-42b6-944a-f9916fbb6110</version_id>
+  <version_modified>20180712T154524Z</version_modified>
+  <xml_checksum>06F57808</xml_checksum>
+  <class_name>M7Example7ConstantVolumePurchasedAirSystem</class_name>
+  <display_name>M7 Example 7. Constant Volume Purchased Air System</display_name>
+  <description>This measure replicates the EMS functionality described in Example 7 from the EnergyPlus V8.9 EMS Application Guide.</description>
+  <modeler_description>This measure asks the user which existing conditioned thermal zones to convert to be served by an Autosized ZoneHVACIdealLoadsAirSystems from a choice list. The choice list will only be populated by Thermal zones which are (1) conditioned and (2) served only by ZoneHVAC Equipment objects, which this measure will delete. The measure configures the ZoneHVACIdealLoadsAirSystems with user-defined values for the supply airflow rates (cfm/ft2), leaving air temperature (Deg F) and leaving air humidity ratios (lb H2O / lb dry air) for both cooling and heating modes.</modeler_description>
+  <arguments>
+    <argument>
+      <name>verbose_info_statements</name>
+      <display_name>Check to allow measure to generate verbose runner.registerInfo statements.</display_name>
+      <type>Boolean</type>
+      <required>false</required>
+      <model_dependent>false</model_dependent>
+      <default_value>false</default_value>
+      <choices>
+        <choice>
+          <value>true</value>
+          <display_name>true</display_name>
+        </choice>
+        <choice>
+          <value>false</value>
+          <display_name>false</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>zones</name>
+      <display_name>Choose Conditioned Thermal Zone(s) to apply Ideal HVAC system changes to.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>*All Cond. Zones not served by Air Loops*</default_value>
+      <choices>
+        <choice>
+          <value>{c012f22c-f29a-47e2-aa29-6028a639047f}</value>
+          <display_name>*All Cond. Zones not served by Air Loops*</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>heating_mdot_per_ft2</name>
+      <display_name>Htg Supply Airflow</display_name>
+      <description>Airflow of Zone Ideal HVAC system when in heating mode in cfm/ft^2.</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>1</default_value>
+    </argument>
+    <argument>
+      <name>cooling_mdot_per_ft2</name>
+      <display_name>Clg Supply Airflow</display_name>
+      <description>Airflow of Zone Ideal HVAC system when in cooling mode in cfm/ft^2.</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>1.2</default_value>
+    </argument>
+    <argument>
+      <name>heating_LAT</name>
+      <display_name>Htg LAT</display_name>
+      <description>Supply Air Temp of Zone Ideal HVAC system when in heating mode, Deg F.</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>105</default_value>
+    </argument>
+    <argument>
+      <name>cooling_LAT</name>
+      <display_name>Clg LAT</display_name>
+      <description>Supply Air Temp of Zone Ideal HVAC system when in cooling mode, Deg F.</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>55</default_value>
+    </argument>
+    <argument>
+      <name>heating_HumRat</name>
+      <display_name>Htg HumRat</display_name>
+      <description>Supply Air Humidity Ratio of Zone Ideal HVAC system when in heating mode, (lb H2O/lb dry air).</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>0.015</default_value>
+    </argument>
+    <argument>
+      <name>cooling_HumRat</name>
+      <display_name>Clg HumRat</display_name>
+      <description>Supply Air Humidity Ratio of Zone Ideal HVAC system when in cooling mode, (lb H2O/lb dry air).</description>
+      <type>Double</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>0.009</default_value>
+    </argument>
+    <argument>
+      <name>internal_variable_availability_dictionary_reporting</name>
+      <display_name>Level of output reporting related to the EMS internal variables that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>ems_runtime_language_debug_output_level</name>
+      <display_name>Level of output reporting related to the execution of EnergyPlus Runtime Language, written to .edd file.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>ErrorsOnly</value>
+          <display_name>ErrorsOnly</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+    <argument>
+      <name>actuator_availability_dictionary_reporting</name>
+      <display_name>Level of output reporting related to the EMS actuators that are available.</display_name>
+      <type>Choice</type>
+      <required>true</required>
+      <model_dependent>false</model_dependent>
+      <default_value>None</default_value>
+      <choices>
+        <choice>
+          <value>None</value>
+          <display_name>None</display_name>
+        </choice>
+        <choice>
+          <value>NotByUniqueKeyNames</value>
+          <display_name>NotByUniqueKeyNames</display_name>
+        </choice>
+        <choice>
+          <value>Verbose</value>
+          <display_name>Verbose</display_name>
+        </choice>
+      </choices>
+    </argument>
+  </arguments>
+  <outputs/>
+  <provenances/>
+  <tags>
+    <tag>HVAC.HVAC Controls</tag>
+  </tags>
+  <attributes>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Measure Type</name>
+      <value>ModelMeasure</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Apply Measure Now</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>OpenStudio Application</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Parametric Analysis Tool</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Software Tool</name>
+      <value>Analysis Spreadsheet</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Model Articulation</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Calibration</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Sensitivity Analysis</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>New Construction EE</value>
+      <datatype>string</datatype>
+    </attribute>
+    <attribute>
+      <name>Intended Use Case</name>
+      <value>Retrofit EE</value>
+      <datatype>string</datatype>
+    </attribute>
+  </attributes>
+  <files>
+    <file>
+      <filename>unit_conversions.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>31924A51</checksum>
+    </file>
+    <file>
+      <filename>util.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>B25EFCDD</checksum>
+    </file>
+    <file>
+      <filename>weather.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>resource</usage_type>
+      <checksum>82988A63</checksum>
+    </file>
+    <file>
+      <filename>m7_wo_ems.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>EEB409D8</checksum>
+    </file>
+    <file>
+      <filename>m7_w_ems.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>85F6435B</checksum>
+    </file>
+    <file>
+      <version>
+        <software_program>OpenStudio</software_program>
+        <identifier>2.4.0</identifier>
+        <min_compatible>2.4.0</min_compatible>
+      </version>
+      <filename>measure.rb</filename>
+      <filetype>rb</filetype>
+      <usage_type>script</usage_type>
+      <checksum>FE4A4619</checksum>
+    </file>
+    <file>
+      <filename>m7_seed.osm</filename>
+      <filetype>osm</filetype>
+      <usage_type>test</usage_type>
+      <checksum>EEB409D8</checksum>
+    </file>
+  </files>
+</measure>

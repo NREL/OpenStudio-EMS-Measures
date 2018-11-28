@@ -1,0 +1,174 @@
+Program Version,EnergyPlus, Version 8.9.0-eba93e8e1b, YMD=2018.07.11 10:44,
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="ECONOMIZER MAX OA FRACTION 70 PCT DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="RETAILSTANDALONE PSZ_ECON_MAXOAFRAC_SCH DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="RETAILSTANDALONE PSZ_ECON_MAXOAFRAC_SCH SUMMER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="RETAILSTANDALONE PSZ_ECON_MAXOAFRAC_SCH WINTER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 1", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 10", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 11", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 12", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 13", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 14", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 15", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 16", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 17", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 18", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 19", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 2", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 20", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 21", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 22", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 25", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 26", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 27", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 28", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 29", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 3", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 30", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 31", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 4", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 5", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 6", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 7", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 8", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 9", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="ECONOMIZER MAX OA FRACTION 70 PCT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="FRACTION LATENT - 0.05", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="FRACTION SENSIBLE - 0.2", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="MIXED WATER AT FAUCET TEMP - 120F", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="RETAILSTANDALONE PSZ_ECON_MAXOAFRAC_SCH", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** CheckUsedConstructions: There are 10 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="ZONE1PTHPDXHEATCOIL" curve values
+   **   ~~~   ** ... Heating Capacity Function of Temperature Curve Name = OS:CURVE:BIQUADRATIC 11 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.786
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="ZONE2PTHPDXHEATCOIL" curve values
+   **   ~~~   ** ... Heating Capacity Function of Temperature Curve Name = OS:CURVE:BIQUADRATIC 11 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.786
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="ZONE3PTHPDXHEATCOIL" curve values
+   **   ~~~   ** ... Heating Capacity Function of Temperature Curve Name = OS:CURVE:BIQUADRATIC 11 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.786
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="ZONE4PTHPDXHEATCOIL" curve values
+   **   ~~~   ** ... Heating Capacity Function of Temperature Curve Name = OS:CURVE:BIQUADRATIC 11 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.786
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="ZONE5PTHPDXHEATCOIL" curve values
+   **   ~~~   ** ... Heating Capacity Function of Temperature Curve Name = OS:CURVE:BIQUADRATIC 11 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.786
+   ** Warning ** GetVRFInput: AirConditioner:VariableRefrigerantFlow="VRF SYSTEM" curve values
+   **   ~~~   ** ... Cooling Capacity Ratio Modifier Function of Low Temperature Curve Name = VRF SYSTEM VRFCOOLCAPFT 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 1.136
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** The Standard Ratings is calculated for Coil:Heating:DX:SingleSpeed = ZONE1PTHPDXHEATCOIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Heating:DX:SingleSpeed = ZONE2PTHPDXHEATCOIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Heating:DX:SingleSpeed = ZONE3PTHPDXHEATCOIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Heating:DX:SingleSpeed = ZONE4PTHPDXHEATCOIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Heating:DX:SingleSpeed = ZONE5PTHPDXHEATCOIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=SERVICE WATER LOOP PUMP
+   ** Warning ** Output:Meter: invalid Key Name="GAS:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTCOOLING:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTHEATING:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly: invalid Key Name="GAS:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly: invalid Key Name="GAS:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly requested for "Electricity:Facility" (TimeStep), already on "Output:Meter". Will report to both eplusout.eso and eplusout.mtr
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Severe  ** CheckWarmupConvergence: Loads Initialization, Zone="PERIMETER_ZN_1 ZN" did not converge after 25 warmup days.
+   **   ~~~   ** See Warmup Convergence Information in .eio file for details.
+   **   ~~~   ** ...Environment(RunPeriod)="RUN PERIOD 1"
+   **   ~~~   ** ..Max Temp Comparison = 1.44E-004 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Min Temp Comparison = 2.79E-002 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Max Heat Load Comparison = 0.3275 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   **   ~~~   ** ..Max Cool Load Comparison = 0.2887 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   ** Severe  ** CheckWarmupConvergence: Loads Initialization, Zone="PERIMETER_ZN_2 ZN" did not converge after 25 warmup days.
+   **   ~~~   ** ...Environment(RunPeriod)="RUN PERIOD 1"
+   **   ~~~   ** ..Max Temp Comparison = 1.73E-005 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Min Temp Comparison = 3.28E-003 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Max Heat Load Comparison = 0.2893 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   **   ~~~   ** ..Max Cool Load Comparison = 0.2184 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   ** Severe  ** CheckWarmupConvergence: Loads Initialization, Zone="PERIMETER_ZN_3 ZN" did not converge after 25 warmup days.
+   **   ~~~   ** ...Environment(RunPeriod)="RUN PERIOD 1"
+   **   ~~~   ** ..Max Temp Comparison = 8.61E-005 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Min Temp Comparison = 6.49E-003 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Max Heat Load Comparison = 8.5271E-002 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   **   ~~~   ** ..Max Cool Load Comparison = 5.2708E-002 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   ** Severe  ** CheckWarmupConvergence: Loads Initialization, Zone="PERIMETER_ZN_4 ZN" did not converge after 25 warmup days.
+   **   ~~~   ** ...Environment(RunPeriod)="RUN PERIOD 1"
+   **   ~~~   ** ..Max Temp Comparison = 3.15E-005 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Min Temp Comparison = 8.59E-002 vs Temperature Convergence Tolerance=0.20 - Pass Convergence
+   **   ~~~   ** ..Max Heat Load Comparison = 0.1747 vs Loads Convergence Tolerance=4.00E-002 - Fail Convergence
+   **   ~~~   ** ..Max Cool Load Comparison = 0.2917 vs Loads Convergence Tolerance=4.00E-002 - Pass Convergence
+   ** Warning ** Processing Monthly Tabular Reports: Variable names not valid for this simulation
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual variables.
+   ** Warning ** AirConditioner:VariableRefrigerantFlow "VRF SYSTEM".
+   **   ~~~   ** ...InitVRF: VRF Heat Pump Min/Max Operating Temperature in Heating Mode Limits have been exceeded and VRF system is disabled.
+   **   ~~~   ** ... Outdoor Unit Inlet Air Temperature             = -20.100
+   **   ~~~   ** ... Heating Minimum Outdoor Unit Inlet Temperature = -20.000
+   **   ~~~   ** ... Heating Maximum Outdoor Unit Inlet Temperature = 30.000
+   **   ~~~   ** ... Check VRF Heat Pump Min/Max Outdoor Temperature in Heating Mode limits.
+   **   ~~~   **  Environment=RUN PERIOD 1, at Simulation time=01/07 03:00 - 03:10
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-ELECTRICITY" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-DISTILLATE OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-RESIDUAL OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-NATURAL GAS" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-COAL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ************* Simulation Error Summary *************
+   ************* There are 12 unused schedules in input.
+   ************* There are 12 unused week schedules in input.
+   ************* There are 50 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** Plant loop exceeding upper temperature limit, PlantLoop="MAIN SERVICE WATER LOOP"
+   *************  **   ~~~   **   This error occurred 116057 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=82.222222
+   *************
+   *************  ** Warning ** AirConditioner:VariableRefrigerantFlow "VRF SYSTEM" -- Exceeded VRF Heat Pump min/max heating temperature limit error continues...
+   *************  **   ~~~   **   This error occurred 2540 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=-20.1  Min=-22.8
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Loads Initialization did not Converge
+   ************* ..1) very high thermal mass such as very thick concrete (solution: increase max number of warmup
+   ************* ..   days in the BUILDING object);
+   ************* ..2) moderate mass and inadequate space conditioning such that the building keeps getting warmer
+   ************* ..   and warmer on successive days (solution: add HVAC, check building thermal properties,
+   ************* ..   check if infiltration is included, make sure HVAC properly controlled);
+   ************* ..3) a soil layer modeled below the concrete slab - (solution remove this layer and read about
+   ************* ..   ground temperatures in the Auxiliary Programs document).
+   ************* ..4) unreasonable (too small) limits in the BUILDING object for temperature (.4 default) or
+   ************* ..   loads tolerances (.04 default)
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 4 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 47 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 118662 Warning; 4 Severe Errors; Elapsed Time=00hr 01min 37.64sec

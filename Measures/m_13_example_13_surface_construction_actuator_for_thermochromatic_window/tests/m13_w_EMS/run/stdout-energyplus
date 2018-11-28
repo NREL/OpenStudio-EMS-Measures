@@ -1,0 +1,97 @@
+EnergyPlus Starting
+EnergyPlus, Version 8.9.0-eba93e8e1b, YMD=2018.07.11 11:37
+Initializing Response Factors
+Calculating CTFs for "INTERIORFURNISHINGS", Construction # 4
+Calculating CTFs for "TYPICAL INSULATED CARPETED 6IN SLAB FLOOR", Construction # 25
+Calculating CTFs for "TYPICAL INSULATED EXTERIOR MASS FLOOR R-13.51", Construction # 26
+Calculating CTFs for "TYPICAL INSULATED METAL DOOR R-1.43", Construction # 27
+Calculating CTFs for "TYPICAL INSULATED WOOD FRAMED EXTERIOR WALL R-11.24", Construction # 28
+Calculating CTFs for "TYPICAL INTERIOR CEILING", Construction # 29
+Calculating CTFs for "TYPICAL INTERIOR WALL", Construction # 33
+Calculating CTFs for "TYPICAL WOOD JOIST ATTIC FLOOR R-29.41", Construction # 36
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone Report Variables
+Initializing Surface (Shading) Report Variables
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Computing Interior Diffuse Solar Exchange through Interzone Windows
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 CHICAGO OHARE INTL AP ANN CLG .4% CONDNS DB=>MWB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 CHICAGO OHARE INTL AP ANN HTG 99.6% CONDNS DB
+Calculating System sizing
+...for Sizing Period: #1 CHICAGO OHARE INTL AP ANN CLG .4% CONDNS DB=>MWB
+Calculating System sizing
+...for Sizing Period: #2 CHICAGO OHARE INTL AP ANN HTG 99.6% CONDNS DB
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Warming up {7}
+Starting Simulation at 01/01 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=01/31
+Continuing Simulation at 01/31 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=03/02
+Continuing Simulation at 03/02 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=04/01
+Continuing Simulation at 04/01 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/01
+Continuing Simulation at 05/01 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/31
+Continuing Simulation at 05/31 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/30
+Continuing Simulation at 06/30 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=07/30
+Continuing Simulation at 07/30 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=08/29
+Continuing Simulation at 08/29 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=09/28
+Continuing Simulation at 09/28 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=10/28
+Continuing Simulation at 10/28 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=11/27
+Continuing Simulation at 11/27 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=12/27
+Continuing Simulation at 12/27 for RUN PERIOD 1
+Writing tabular output file results using HTML format.
+EnergyPlus Completed Successfully.

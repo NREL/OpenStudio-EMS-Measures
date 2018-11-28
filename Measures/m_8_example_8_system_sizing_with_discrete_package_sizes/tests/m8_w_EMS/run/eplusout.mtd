@@ -1,0 +1,2348 @@
+
+ Meters for 9,LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 82,SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 107,LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 108,SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 109,SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 134,SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 159,SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 184,SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 185,SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 186,SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 187,LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LGSTORE2 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:LGSTORE2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 212,SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE5 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE5 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 237,SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE6 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE6 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 262,SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE7 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE7 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 287,SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE8 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:SMSTORE8 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 312,LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LGSTORE1 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 349,SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE1 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 362,SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE2 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 375,SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE3 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 388,SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE4 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 401,LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LGSTORE2 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LGSTORE2 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 414,SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE5 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE5 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 427,SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE6 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE6 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 440,SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE7 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE7 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 453,SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:SMSTORE8 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:SMSTORE8 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 466,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 515,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 552,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 553,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 554,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 603,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 652,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 653,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 654,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 655,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 656,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 657,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 658,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 659,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 660,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 661,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 662,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 663,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 664,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 665,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 666,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 667,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 668,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 669,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 670,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 671,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 672,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 673,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 674,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 675,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 676,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 677,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 678,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 679,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 680,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 681,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 682,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 683,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 684,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 685,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 686,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 687,40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 688,LGSTORE1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LGSTORE1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:LGSTORE1 ZN [J]
+
+ Meters for 749,LGSTORE1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LGSTORE1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:LGSTORE1 ZN [J]
+
+ Meters for 776,LGSTORE2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LGSTORE2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:LGSTORE2 ZN [J]
+
+ Meters for 801,LGSTORE2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LGSTORE2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:LGSTORE2 ZN [J]
+
+ Meters for 816,SMSTORE1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE1 ZN [J]
+
+ Meters for 841,SMSTORE1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE1 ZN [J]
+
+ Meters for 856,SMSTORE2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE2 ZN [J]
+
+ Meters for 881,SMSTORE2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE2 ZN [J]
+
+ Meters for 896,SMSTORE3 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE3 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE3 ZN [J]
+
+ Meters for 921,SMSTORE3 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE3 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE3 ZN [J]
+
+ Meters for 936,SMSTORE4 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE4 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE4 ZN [J]
+
+ Meters for 961,SMSTORE4 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE4 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE4 ZN [J]
+
+ Meters for 976,SMSTORE5 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE5 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE5 ZN [J]
+
+ Meters for 1001,SMSTORE5 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE5 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE5 ZN [J]
+
+ Meters for 1016,SMSTORE6 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE6 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE6 ZN [J]
+
+ Meters for 1041,SMSTORE6 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE6 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE6 ZN [J]
+
+ Meters for 1056,SMSTORE7 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE7 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE7 ZN [J]
+
+ Meters for 1081,SMSTORE7 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE7 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE7 ZN [J]
+
+ Meters for 1096,SMSTORE8 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE8 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:SMSTORE8 ZN [J]
+
+ Meters for 1121,SMSTORE8 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:SMSTORE8 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:SMSTORE8 ZN [J]
+
+ Meters for 1136,LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1137,LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1138,LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1175,LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1176,LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1177,LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1178,SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1179,SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1180,SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1181,SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1182,SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1183,SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1184,SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1185,SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1186,SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1187,SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1188,SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1189,SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1190,SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1191,SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1192,SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=General:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1193,WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1194,WATER USE CONNECTIONS 2:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1195,WATER USE CONNECTIONS 3:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1196,WATER USE CONNECTIONS 4:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1197,WATER USE CONNECTIONS 5:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1198,WATER USE CONNECTIONS 6:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1199,WATER USE CONNECTIONS 7:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1200,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 1237,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1274,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 1311,LGSTORE1 ZN PSZ-AC_1 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1348,LGSTORE2 ZN PSZ-AC_6 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1349,SMSTORE1 ZN PSZ-AC_2 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1350,SMSTORE2 ZN PSZ-AC_3 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1351,SMSTORE3 ZN PSZ-AC_4 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1352,SMSTORE4 ZN PSZ-AC_5 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1353,SMSTORE5 ZN PSZ-AC_7 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1354,SMSTORE6 ZN PSZ-AC_8 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1355,SMSTORE7 ZN PSZ-AC_9 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1356,SMSTORE8 ZN PSZ-AC_10 FAN:Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 1357,NONDIMMING EXTERIOR LIGHTS DEF:Exterior Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=General:ExteriorLights:Electricity [J]
+
+ Meters for 1382,LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1407,LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1420,LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1421,LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1422,SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1423,SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1424,SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1425,SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1426,SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1427,SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1428,SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1429,SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1430,SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1431,SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1432,SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1433,SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1434,SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1435,SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1436,SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1437,SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+
+ Meters for 1438,LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1451,LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1464,LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1465,LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1466,SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1467,SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1468,SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1469,SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1470,SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1471,SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1472,SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1473,SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1474,SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1475,SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1476,SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1477,SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1478,SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1479,SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1480,SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1481,SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1482,LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1483,LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1520,LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1521,LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1522,LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1523,LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1524,LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1525,LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1526,SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1527,SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1528,SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1529,SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1530,SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1531,SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1532,SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1533,SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1534,SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1535,SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1536,SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1537,SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1538,SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1539,SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1540,SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1541,SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1542,SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1543,SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1544,SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1545,SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1546,SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1547,SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1548,SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1549,SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1550,SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1551,SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1552,SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1553,SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1554,SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1555,SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1556,SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+
+ Meters for 1557,SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Ancillary Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:HVAC [J]
+  OnMeter=Heating:Gas [J]
+
+ Meters for 1558,SERVICE WATER LOOP PUMP:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1571,SERVICE WATER LOOP PUMP 1:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1572,SERVICE WATER LOOP PUMP 2:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1573,SERVICE WATER LOOP PUMP 3:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1574,SERVICE WATER LOOP PUMP 4:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1575,SERVICE WATER LOOP PUMP 5:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1576,SERVICE WATER LOOP PUMP 6:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 1577,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1602,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1603,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 FAN:Fan Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 FAN:Fan Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 FAN:Fan Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 FAN:Fan Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 FAN:Fan Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 FAN:Fan Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 FAN:Fan Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 FAN:Fan Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 FAN:Fan Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 FAN:Fan Electric Energy
+  NONDIMMING EXTERIOR LIGHTS DEF:Exterior Lights Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Electric Energy
+  SERVICE WATER LOOP PUMP:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 1:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 2:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 3:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 4:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 5:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 6:Pump Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=Electricity:Zone:LGSTORE1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:LGSTORE1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE3 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE4 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE4 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ADDITIONAL LIGHTS:Lights Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:LGSTORE2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:LGSTORE2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE5 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE5 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE6 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE6 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE7 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE7 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:SMSTORE8 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:SMSTORE8 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:LGSTORE1 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  LGSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE1 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE1 ZN STRIPMALL STRIP MALL - TYPE 1 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE2 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE2 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE3 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE3 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE4 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE4 ZN STRIPMALL STRIP MALL - TYPE 2 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:LGSTORE2 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  LGSTORE2 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE5 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE5 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE6 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE6 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE7 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE7 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:SMSTORE8 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  SMSTORE8 ZN STRIPMALL STRIP MALL - TYPE 3 ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 2:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 3:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 4:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 5:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 6:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 7:Water Use Connections Plant Hot Water Energy
+
+ For Meter=PlantLoopHeatingDemand:Plant [J], ResourceType=PlantLoopHeatingDemand, Group=Plant, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 2:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 3:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 4:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 5:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 6:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 7:Water Use Connections Plant Hot Water Energy
+
+ For Meter=WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 2:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 3:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 4:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 5:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 6:Water Use Connections Plant Hot Water Energy
+  WATER USE CONNECTIONS 7:Water Use Connections Plant Hot Water Energy
+
+ For Meter=General:WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  SERVICE WATER LOOP PUMP:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 1:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 2:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 3:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 4:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 5:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 6:Pump Electric Energy
+
+ For Meter=WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+
+ For Meter=General:WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Off Cycle Parasitic Electric Energy
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater On Cycle Parasitic Electric Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+
+ For Meter=WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+
+ For Meter=General:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Total Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Mains Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Mains Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+
+ For Meter=WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Mains Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+
+ For Meter=General:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 1 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 2 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 3 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 4 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 5 1.0 THERM EFF:Water Heater Mains Water Volume
+  40GAL ELECTRICITY WATER HEATER - 40KBTU/HR 6 1.0 THERM EFF:Water Heater Mains Water Volume
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Mains Water Volume
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  LGSTORE2 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE1 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE2 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE3 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE3 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE4 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE4 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE5 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE5 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE6 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE6 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE7 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE7 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE8 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE8 ZN:Zone Air System Sensible Cooling Energy
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Heating Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  LGSTORE2 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE1 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE2 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE3 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE3 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE4 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE4 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE5 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE5 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE6 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE6 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE7 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE7 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE8 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE8 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:LGSTORE1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE2 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE1 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE2 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE3 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE4 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE5 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE6 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE7 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE8 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:LGSTORE1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  LGSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE1 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE2 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE3 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE4 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE5 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE6 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE7 ZN:Zone Air System Sensible Cooling Energy
+  SMSTORE8 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:LGSTORE1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  LGSTORE1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:LGSTORE2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  LGSTORE2 ZN:Zone Air System Sensible Heating Energy
+  LGSTORE2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:LGSTORE2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  LGSTORE2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:LGSTORE2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  LGSTORE2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE1 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE2 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE3 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE3 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE4 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE4 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE4 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE4 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE4 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE5 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE5 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE5 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE5 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE5 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE5 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE5 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE6 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE6 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE6 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE6 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE6 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE6 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE6 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE7 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE7 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE7 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE7 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE7 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE7 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE7 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:SMSTORE8 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  SMSTORE8 ZN:Zone Air System Sensible Heating Energy
+  SMSTORE8 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:SMSTORE8 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  SMSTORE8 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:SMSTORE8 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  SMSTORE8 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+
+ For Meter=WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+
+ For Meter=General:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  LGSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  LGSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE1 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE2 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE3 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE5 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+  SMSTORE6 SERVICE WATER USE 0.03GAL/MIN:Water Use Equipment Heating Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  LGSTORE1 ZN PSZ-AC_1 FAN:Fan Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 FAN:Fan Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 FAN:Fan Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 FAN:Fan Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 FAN:Fan Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 FAN:Fan Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 FAN:Fan Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 FAN:Fan Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 FAN:Fan Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 FAN:Fan Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Electric Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  LGSTORE1 ZN PSZ-AC_1 FAN:Fan Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 FAN:Fan Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 FAN:Fan Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 FAN:Fan Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 FAN:Fan Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 FAN:Fan Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 FAN:Fan Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 FAN:Fan Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 FAN:Fan Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 FAN:Fan Electric Energy
+
+ For Meter=General:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  LGSTORE1 ZN PSZ-AC_1 FAN:Fan Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 FAN:Fan Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 FAN:Fan Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 FAN:Fan Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 FAN:Fan Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 FAN:Fan Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 FAN:Fan Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 FAN:Fan Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 FAN:Fan Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 FAN:Fan Electric Energy
+
+ For Meter=ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  NONDIMMING EXTERIOR LIGHTS DEF:Exterior Lights Electric Energy
+
+ For Meter=General:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  NONDIMMING EXTERIOR LIGHTS DEF:Exterior Lights Electric Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Heating Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Total Cooling Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Total Cooling Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  LGSTORE1 ZN PSZ-AC_1 2SPD DX AC CLG COIL 180KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 2SPD DX AC CLG COIL 159KBTU/HR 9.7EER:Cooling Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 2SPD DX AC CLG COIL 92KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 2SPD DX AC CLG COIL 87KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 2SPD DX AC CLG COIL 88KBTU/HR 10.3EER:Cooling Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 2SPD DX AC CLG COIL 97KBTU/HR 10.3EER:Cooling Coil Electric Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Heating Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Heating Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Heating Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Heating Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  LGSTORE1 ZN PSZ-AC_1 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 NO BACKUP HEAT:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 NO BACKUP HEAT:Heating Coil Electric Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Electric Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Electric Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Electric Energy
+
+ For Meter=Gas:Facility [J], ResourceType=Gas, contents are:
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Gas:HVAC [J], ResourceType=Gas, Group=HVAC, contents are:
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Heating:Gas [J], ResourceType=Gas, EndUse=Heating, contents are:
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE1 ZN PSZ-AC_1 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Gas Energy
+  LGSTORE2 ZN PSZ-AC_6 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE1 ZN PSZ-AC_2 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE2 ZN PSZ-AC_3 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE3 ZN PSZ-AC_4 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE4 ZN PSZ-AC_5 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE5 ZN PSZ-AC_7 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE6 ZN PSZ-AC_8 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE7 ZN PSZ-AC_9 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Gas Energy
+  SMSTORE8 ZN PSZ-AC_10 GAS HTG COIL:Heating Coil Ancillary Gas Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  SERVICE WATER LOOP PUMP:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 1:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 2:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 3:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 4:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 5:Pump Electric Energy
+  SERVICE WATER LOOP PUMP 6:Pump Electric Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

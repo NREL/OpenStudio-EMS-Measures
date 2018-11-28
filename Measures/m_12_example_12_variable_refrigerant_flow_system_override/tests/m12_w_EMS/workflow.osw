@@ -1,0 +1,7 @@
+{
+   "created_at" : "20180423T235644Z",
+   "seed_file" : "../m12_w_EMS.osm",
+   "steps" : [],
+   "updated_at" : "20180711T150919Z",
+   "weather_file" : "USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw"
+}
